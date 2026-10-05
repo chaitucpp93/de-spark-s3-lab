@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.swp
+*.swo
+.env
+.aws/
+.venv/
+venv/
+airflow_env*/
+logs/
+*.log
